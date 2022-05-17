@@ -1,0 +1,32 @@
+{
+  "name": "audio-bookt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "comma-number": "^2.1.0",
+    "kutty": "^0.6.0",
+    "moment": "^2.29.2",
+    "next": "12.1.4",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-h5-audio-player": "^3.8.4",
+    "react-icons": "^4.3.1",
+    "react-intersection-observer": "^9.1.0",
+    "react-select": "^5.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "@types/react": "^17.0.43",
+    "autoprefixer": "^10.4.4",
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23"
+  }
+}
