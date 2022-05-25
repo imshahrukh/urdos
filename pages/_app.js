@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
     // <AudioPlayer>
      <Component {...pageProps} />
-    //{/* </AudioPlayer> */}
+    // {/* </AudioPlayer> */}
   );
 }
 
